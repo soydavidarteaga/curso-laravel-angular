@@ -1,5 +1,5 @@
 <?php
-    namespace App;
+    namespace App\helpers;
     //Llamamos al DOMpdf -> libreria para 
     use Dompdf\Dompdf;
 

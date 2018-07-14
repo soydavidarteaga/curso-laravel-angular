@@ -1,7 +1,7 @@
 <?php
     require '../vendor/autoload.php';
-    use App\Template;
-    use App\Pdf;
+    use App\nucleo\Template;
+    use App\helpers\Pdf;
 
     //Aqui se llena la informacion a mostrar en el certificado
     $datos = array("nombre" => "David Arteaga","curso" => "Laravel","instructor" => "Jose Cuicas");

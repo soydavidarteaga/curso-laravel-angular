@@ -1,5 +1,5 @@
 <?php
-    namespace App;
+    namespace App\nucleo;
     class Template{
         public static function generarHtml(array $datos,$archivo){
             ob_start(); //Esta funcion lo que hace es que guarda el include a y lo pone en la cache.

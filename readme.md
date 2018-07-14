@@ -11,7 +11,7 @@
 - 100% Orientado a objeto
 
 ### Gestor de dependencias
-    **Instalar Laravel**
+**Instalar Laravel**
 
 1. `Composer create-project laravel/laravel nombre_proyecto`  
 2. `Composer global require "laravel/laravel"`
